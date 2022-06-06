@@ -10,6 +10,7 @@ import android.widget.Toast;
 
 import java.util.List;
 
+//Pedro Mora & Marianela Bustamante
 //encargado de registrar el enlace al card item
 public class ViewHolder extends RecyclerView.ViewHolder implements View.OnClickListener {
     //hacer esto como tercera parte.
